@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554379700 source:c:\users\janik\documents\codeblocks projects\palindrome\main.cpp
+	<iostream>
+	<string.h>
+
